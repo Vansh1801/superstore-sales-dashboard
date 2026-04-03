@@ -18,6 +18,3 @@ This project analyzes sales, profit, and return patterns using Power BI.
 - Power BI
 - DAX
 - Data Modeling
-
-## Dashboard Preview
-![Dashboard](dashboard.png)
